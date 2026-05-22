@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "Bash(git checkout:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git stash:*)",
+      "Bash(git merge:*)",
+      "Bash(git branch:*)",
+      "Bash(ping:*)",
+      "Bash(git config:*)",
+      "Bash(gh:*)",
+      "Bash(curl:*)",
+      "Bash(findstr :443)"
     ]
   }
 }
